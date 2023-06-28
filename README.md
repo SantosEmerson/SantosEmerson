@@ -1,6 +1,6 @@
 Olá 👋
 
-Sou Bacharel em Biologia-UNICAP-2019, em transição de carreira. Estou cursando Análise e Desenvolvimento de Dados -UNINASSAU.
+Sou Bacharel em Biologia-UNICAP-2019, em transição de carreira. Estou cursando Análise e Desenvolvimento de Sistemas -UNINASSAU.
 
 Em paralelo estudando desenvolvimento web, no momento estou estudando POO e JAVA.
 
